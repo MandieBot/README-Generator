@@ -3,16 +3,16 @@
   why
   ## Table of Contents
   * [Installation](#Installation)
-  * Usage 
-  * License
-  * Contributions
-  * Tests
+  * [Usage](#Usage) 
+  * [License](#License)
+  * [Contributions](#Contributions)
+  * [Testing](#Testing)
   * [Questions](#Questions)
 
   ## Installation
-  Enter command i to install dependencies.
+  Enter command npm i to install dependencies.
   ## Usage
-  p 
+  answers 
   ## License
     This project is licensed under MIT
   [License](#License)
@@ -20,10 +20,10 @@
 
   ## Contributions
   N/A
-  ## Tests
-  Enter command t to run tests and debug.
+  ## Testing
+  Enter command npm test to run tests and debug.
   ## Questions
-  [MandieBot](https://github.com/MandieBot)
+  [mandieBot](https://github.com/MandieBot)
 
-  For additional information, please reach out to email.
+  For additional information, please reach out to email add.
   
