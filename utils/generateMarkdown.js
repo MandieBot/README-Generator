@@ -34,10 +34,10 @@ function generateMarkdown(data) {
   ${data.description}
   ## Table of Contents
   * [Installation](#Installation)
-  * Usage 
-  * License
-  * Contributions
-  * Tests
+  * [Usage](#Usage) 
+  * [License](#License)
+  * [Contributions](#Contributions)
+  * [Testing](#Testing)
   * [Questions](#Questions)
 
   ## Installation
@@ -49,7 +49,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}\n
   ## Contributions
   N/A
-  ## Tests
+  ## Testing
   Enter command ${data.tests} to run tests and debug.
   ## Questions
   [${data.username}](https://github.com/MandieBot)\n
