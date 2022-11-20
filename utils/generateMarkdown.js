@@ -28,14 +28,32 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  console.log(data);
-  return `#${data.project} 
-  ${renderLicenseLink(data.license)}
-  ${renderLicenseBadge(data.license)}
-  ${renderLicenseSection(data.license)}
-  ${data.username}
-  ${data.email}
+  // console.log(data);
+  return `# ${data.project}
+  ## Description 
   ${data.description}
+  ## Table of Contents
+  * [Installation](#Installation)
+  * Usage 
+  * License
+  * Contributions
+  * Tests
+  * [Questions](#Questions)
+
+  ## Installation
+  Enter command ${data.dependencies} to install dependencies.
+  ## Usage
+  ${data.usage} 
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
+  ${renderLicenseBadge(data.license)}\n
+  ## Contributions
+  N/A
+  ## Tests
+  Enter command ${data.tests} to run tests and debug.
+  ## Questions
+  [${data.username}](https://github.com/MandieBot)\n
+  For additional information, please reach out to ${data.email}.
   `;
 }
 

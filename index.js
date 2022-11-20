@@ -19,7 +19,7 @@ const questions = [
   {
     type: "input",
     name: "project",
-    message: "What is your project's name?",
+    message: "What is the title of your project?",
   },
   {
     type: "input",
@@ -35,17 +35,17 @@ const questions = [
   {
     type: "input",
     name: "dependencies",
-    message: "What command should be run to install dependencies? (npm i)",
+    message: "How does the user install dependencies? (npm i)",
   },
   {
     type: "input",
     name: "tests",
-    message: "What command should be entered to run tests? (npm test)",
+    message: "How does the user run tests? (npm test)",
   },
   {
     type: "input",
     name: "usage",
-    message: "How will the user access the repo? (Answer the prompts)",
+    message: "How will the user utilize the application? (Answer the prompts)",
   },
 ];
 
