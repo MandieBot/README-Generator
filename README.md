@@ -38,7 +38,8 @@ Enter command npm test to run tests and debug.
 
 ## Questions
 
-[GitHub](https://github.com/MandieBot)\n
-[ScreenCastify Video Demo](https://drive.google.com/file/d/1FsphuLxvK9SS-8tm6j-ynTRW5aS4WFOJ/view)
+[GitHub](https://github.com/MandieBot)
 
 For additional information, please reach out to Amanda Botinelly at amandabotinelly@gmail.com.
+
+[ScreenCastify Video Demo](https://drive.google.com/file/d/1FsphuLxvK9SS-8tm6j-ynTRW5aS4WFOJ/view)
