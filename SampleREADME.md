@@ -35,7 +35,7 @@ Commands on how to run tests and debug.
 
 ## Questions
 
-[GitHub](https://github.com/MandieBot)\n
+[GitHub](https://github.com/MandieBot)
 
 For additional information, please reach out to Amanda Botinelly at amandabotinelly@gmail.com.
 
